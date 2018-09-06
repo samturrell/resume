@@ -18,35 +18,7 @@ Heading up the frontend development side of the company it is my responsibility 
 
 ### Technical
 
-#### Javascript 
-
-| Skills | | | |
-| --- | --- | --- | --- |
-| Vanilla Javascript | ES6/ES7 | Coffeescript | Vue.js (+ ecosystem) |
-| React | Nuxt | Adonis.js | Babel |
-| npm publishing | Node | Webpack | Gulp |
-| Grunt | Test Driven Development | Progressive Web Apps | Single Page Applications |
-
-#### CSS
-
-| Skills | | | |
-| --- | --- | --- | --- |
-| CSS3 | Less | SCSS | Browser compatability |
-| Bootstrap (3 + 4) | Foundation | Responsive Development | Browser testing |
-
-#### Backend
-
-| Skills | | | |
-| --- | --- | --- | --- |
-| PHP 5.5+ | Laravel (4+) | Node | SQL |
-| Bootstrap (3 + 4) | Foundation | | |
-
-#### Other
-
-| Skills | | | |
-| --- | --- | --- | --- |
-| mSL | Search Engine Optimisation | Continuous Integration / Deployment | SQL |
-| Bootstrap (3 + 4) | Foundation | Pixel perfect eye for detail | Open Source |
+**Nuxt**, **Progressive Web Apps**, Node, Less, Adonis.js, Browser testing, Responsive Development, Webpack, **Pixel perfect eye for detail**, mSL, Node, **npm publishing**, Babel, **PHP 5.5+**, Search Engine Optimisation, **Extensive Vue.js experience (+ ecosystem)**, **Laravel (4+)**, Foundation, Continuous Integration / Deployment, SCSS, Gulp, **React**, SQL, Grunt, ES6/ES7, **Single Page Applications**, **Open Source**, Bootstrap (3 + 4), Browser compatability, Coffeescript, Test Driven Development, Vanilla Javascript, CSS3
 
 
 
