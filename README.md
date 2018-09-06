@@ -4,6 +4,8 @@ Hello 😀, you've landed on Sam Turrell's resume. I am a highly skilled Senior 
 
 I am self taught and commercially-proven in building scalable and high quality systems. With a trained eye for detail, well documented code and a passion for performant web, I am able to deliver exactly what the project brief requires, and then some.
 
+Although focused on frontend development, I also have fairly extensive backend experience using PHP frameworks such as Laravel.
+
 ## Experience
 
 ### Lead Frontend Developer (2013 - present)
