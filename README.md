@@ -18,9 +18,11 @@ Heading up the frontend development side of the company it is my responsibility 
 
 ### Technical
 
-**Nuxt**, **Progressive Web Apps**, Node, Less, Adonis.js, Browser testing, Responsive Development, Webpack, **Pixel perfect eye for detail**, mSL, Node, **npm publishing**, Babel, **PHP 5.5+**, Search Engine Optimisation, **Extensive Vue.js experience (+ ecosystem)**, **Laravel (4+)**, Foundation, Continuous Integration / Deployment, SCSS, Gulp, **React**, SQL, Grunt, ES6/ES7, **Single Page Applications**, **Open Source**, Bootstrap (3 + 4), Browser compatability, Coffeescript, Test Driven Development, Vanilla Javascript, CSS3
+**Nuxt**, **Progressive Web Apps**, Node, Less, Adonis.js, Browser testing, Responsive Development, Webpack, **Pixel perfect eye for detail**, mSL, Node, **npm publishing**, Babel, **PHP 5.5+**, Search Engine Optimisation, **Extensive Vue.js experience (+ ecosystem)**, **Laravel (4+)**, Foundation, Continuous Integration / Deployment, SCSS, Gulp, **React**, SQL, Grunt, ES6/ES7, **Single Page Applications**, **Open Source**, Bootstrap (3 + 4), Browser compatability, Coffeescript, Test Driven Development, Vanilla Javascript, CSS3, Code Review
 
+### Non-Technical
 
+**Leadership**, Mentoring, Communication, Time Management, **Meeting Tight Deadlines without compromising quality**, Training, Self Motivation, **Creativity**, Quick Learner, Multi-tasking
 
 
 
