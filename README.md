@@ -1,6 +1,6 @@
 # Sam Turrell, Frontend Developer
 
-[Website](http://samturrell.co.uk) | [Blog](http://samturrell.github.io) | [Email](mailto:sam+hi@samturrell.co.uk) 
+[Website](http://samturrell.co.uk) | [Blog](http://samturrell.github.io) | [Email](mailto:sam+hi@samturrell.co.uk) | [Github Resume](http://resume.github.io/?samturrell)
 
 
 Hello 👋, you've landed on Sam Turrell's resume. I am a highly skilled Senior web developer based in York, United Kingdom. Experienced in all aspect of frontend development, ranging from pixel perfect HTML/CSS reproduction all the way to bespoke enterprise scale javascript-intensive interfaces. 
