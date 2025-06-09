@@ -11,9 +11,15 @@ Although focused on frontend development, I also have fairly extensive backend e
 
 ## 👏 Experience
 
-### Lead Frontend Developer (2013 - present)
+### Lead Frontend Engineer (2023 - present)
 
-#### Netsells Ltd  - York, UK
+#### hedgehog lab - Remote
+
+As a Tech Lead at hedgehog lab I steer the technical direction of the frontend department to ensure we stay at the cutting edge, and ensuring we deliver high quality maintainable code for our clients.
+
+### Lead Frontend Developer (2013 - 2023)
+
+#### Netsells Ltd - York, UK
 
 Heading up the frontend development side of the company it is my responsibility to develop performant, scalable systems within client budget and to investigate new technology and tools to increase both efficiency and quality. On top of this, as a team lead my duties involve the day to day management of other members of my ever-expanding team, providing mentorship and arranging training where required.
 
